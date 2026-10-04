@@ -1,0 +1,43 @@
+REPALYZER FREEWARE LICENCE
+
+Copyright (c) 2026 Borislav Christov ("Grast"). All rights reserved except as
+granted below.
+
+"Repalyzer" means the Repalyzer application, its installer and its
+documentation, in the form distributed by the copyright holder.
+
+1. Use. You may install and use Repalyzer free of charge, on any number of your
+   own computers, for any lawful purpose, including streaming, coaching and
+   community events.
+
+2. Redistribution. You may copy and share the unmodified installer, free of
+   charge, provided you keep this licence and the release notes with it. You may
+   not sell Repalyzer, charge for access to it, or bundle it in a paid product or
+   service.
+
+3. No modification. You may not modify Repalyzer, decompile or reverse engineer
+   it, or build derivative works, except to the extent that applicable law
+   allows this despite this restriction.
+
+4. Third-party software. Repalyzer includes third-party software that stays
+   under its own licences, listed in THIRD_PARTY_NOTICES.md and reproduced in
+   THIRD_PARTY_LICENSES.txt. Nothing in this licence changes those licences.
+
+5. Game content and trademarks. Repalyzer is an unofficial fan project, not
+   affiliated with or endorsed by Blizzard Entertainment. StarCraft and
+   Brood War are trademarks of Blizzard Entertainment, Inc. Repalyzer contains
+   no StarCraft game data; you need your own copy of the game for the features
+   that read it.
+
+6. No warranty. REPALYZER IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+   A PARTICULAR PURPOSE AND NONINFRINGEMENT. ITS ANALYSIS, INCLUDING THE
+   INTEGRITY REVIEW, IS INFORMATION ONLY AND MAY BE INCOMPLETE OR WRONG.
+
+7. Limitation of liability. TO THE FULLEST EXTENT PERMITTED BY LAW, THE
+   COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+   ARISING FROM THE USE OF, OR INABILITY TO USE, REPALYZER.
+
+8. Ending this licence. This licence ends automatically if you break its
+   terms. The copyright holder may release Repalyzer, or parts of it, under
+   other licences at any time.
